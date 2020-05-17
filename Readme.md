@@ -1,3 +1,5 @@
+
+
 # West Wind Album Viewer ASP.NET Core Sample
 
 **Sample Angular application demonstrating ASP.NET Core API features**
@@ -11,9 +13,6 @@ This is a sample **ASP.NET Core application** that *demonstrates* basic features
 **In a Mobile Web Browser:**
 
 ![](AlbumViewerMobile.jpg)
-
-**Online Sample:**
-* [Live AlbumViewer Sample](https://albumviewer.west-wind.com)
 
 ### ASP.NET Core Features
 The **ASP.NET Core** Backend demonstrates:
@@ -164,19 +163,3 @@ This runs a fixed container that was build with `dockerbuild.ps1` or `dockerbuil
 
 #### Platforms 
 Currently the app has been tested to run under Windows and Mac and under Docker running Linux.
-
-**License:**  
-This sample is licensed under MIT license. Use, play with, integrate code from
-this repository as you see fit at your own risk. I try to update this code regularly to reflect the latest current builds of ASP.NET Core and Angular.
-
-**Warranty Disclaimer: No Warranty!**
-
-IN NO EVENT SHALL THE AUTHOR, OR ANY OTHER PARTY WHO MAY MODIFY
-AND/OR REDISTRIBUTE THIS PROGRAM AND DOCUMENTATION, BE LIABLE 
-FOR ANY COMMERCIAL, SPECIAL, INCIDENTAL, OR CONSEQUENTIAL DAMAGES
-ARISING OUT OF THE USE OR INABILITY TO USE THE PROGRAM INCLUDING, 
-BUT NOT LIMITED TO, LOSS OF DATA OR DATA BEING RENDERED INACCURATE
-OR LOSSES SUSTAINED BY YOU OR LOSSES SUSTAINED BY THIRD PARTIES OR
-A FAILURE OF THE PROGRAM TO OPERATE WITH ANY OTHER PROGRAMS, EVEN
-IF YOU OR OTHER PARTIES HAVE BEEN ADVISED OF THE POSSIBILITY OF 
-SUCH DAMAGES.
